@@ -39,14 +39,14 @@ Ingeniero en Tecnologías de la Información y Comunicaciones con un perfil híb
 ---
 
 ### 📊 Actividad en GitHub
-![Estadísticas de Adrián](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
+![Estadísticas de Adrián](https://github-readme-stats.vercel.app/api?username=Acortez97&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Acortez97&layout=compact&theme=dark)
 
 ---
 
 ### 📫 Información de Contacto Profesional
 - **LinkedIn:** [linkedin.com/in/adriancortezv](https://www.linkedin.com/in/adriancortezv) 
-- **Email:** adriancortezv97@gmail.com [cite: 5]
+- **Email:** adriancortezv97@gmail.com 
 - **Ubicación:** Toluca, Estado de México.
 
 ---
