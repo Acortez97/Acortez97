@@ -38,11 +38,14 @@ Ingeniero en Tecnologías de la Información y Comunicaciones con un perfil híb
 
 ---
 
-### 📊 Actividad en GitHub
-![Estadísticas de Adrián](https://github-readme-stats.vercel.app/api?username=Acortez97&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Acortez97&layout=compact&theme=dark)
+### 📊 Estadísticas de GitHub
+![Estadísticas de Adrián](https://github-readme-stats.vercel.app/api?username=Acortez97&show_icons=true&theme=dark&hide_border=true)
 
+### 💻 Lenguajes más usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Acortez97&layout=compact&theme=dark&hide_border=true)
 ---
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📫 Información de Contacto Profesional
 - **LinkedIn:** [linkedin.com/in/adriancortezv](https://www.linkedin.com/in/adriancortezv) 
